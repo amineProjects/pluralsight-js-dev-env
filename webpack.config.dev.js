@@ -1,4 +1,3 @@
-import webpack from "webpack";
 import {resolve} from "path";
 
 export default{
